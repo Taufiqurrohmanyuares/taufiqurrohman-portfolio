@@ -39,7 +39,7 @@ export const certificates: Certificate[] = [
   "desc": "Sertifikat kepesertaan dalam program certified online course selama 1 minggu yang diselenggarakan oleh RevoU untuk mempelajari dasar-dasar Software Engineering.",
   "credentialId": "CCSE-121026-01-1-00016",
   "link": "",
-  "image": "/images/certs/revou-intro-se.webp"
+  "image": "/images/certs/revou.jpg"
   },
   {
     "key": "dicoding-frontend",
