@@ -32,6 +32,16 @@ export const certificates: Certificate[] = [
     "image": "/images/certs/dicoding-dasar-web.webp"
   },
   {
+  "key": "revou-intro-software-engineering",
+  "title": "Intro to Software Engineering",
+  "issuer": "RevoU",
+  "date": "16 Okt 2026",
+  "desc": "Sertifikat kepesertaan dalam program certified online course selama 1 minggu yang diselenggarakan oleh RevoU untuk mempelajari dasar-dasar Software Engineering.",
+  "credentialId": "CCSE-121026-01-1-00016",
+  "link": "",
+  "image": "/images/certs/revou-intro-se.webp"
+  },
+  {
     "key": "dicoding-frontend",
     "title": "Belajar Membuat Front-End Web untuk Pemula",
     "issuer": "Dicoding Indonesia",
