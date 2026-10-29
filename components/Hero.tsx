@@ -5,6 +5,7 @@ import { site } from "@/data/site";
 import Reveal from "./Reveal";
 import Player from "./Player";
 import HeroRocket from "./HeroRocket";
+import HeroSky from "./HeroSky"
 
 export default function Hero() {
   const [text, setText] = useState("");
@@ -50,6 +51,7 @@ export default function Hero() {
           <Reveal delay={0.4}><Player /></Reveal>
         </div>
       </div>
+      <HeroSky />
       <HeroRocket />
     </section>
   );
