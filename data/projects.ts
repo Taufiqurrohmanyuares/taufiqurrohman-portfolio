@@ -38,6 +38,26 @@ export const projects: Project[] = [
     "repo": "https://github.com/Taufiqurrohmanyuares/warung-keuangan.git"
   },
   {
+  "title": "Kebun Aksara",
+  "category": "Web",
+  "tags": [
+    "NEXT.JS",
+    "TAILWIND CSS",
+    "TYPESCRIPT",
+    "DJANGO",
+    "DJANGO REST FRAMEWORK",
+    "MYSQL"
+  ],
+  "desc": "Platform Edukasi Literasi & Numerasi Anak",
+  "overview": "Platform web edukasi interaktif yang dirancang untuk membantu anak usia 4–8 tahun belajar membaca dan berhitung secara mandiri melalui 4 dunia permainan berpanduan suara Bahasa Indonesia, dilengkapi dashboard pemantauan terpisah untuk Orang Tua, Guru PAUD/TK, dan Admin Kurikulum.",
+  "problem": "Anak usia prasekolah hingga kelas awal sering kesulitan belajar mandiri lewat media digital karena antarmuka yang terlalu rumit, minim panduan suara Bahasa Indonesia, serta materi latihan yang belum menyesuaikan tingkat pemahaman saat anak mengalami kesulitan.",
+  "impact": "Menghadirkan pengalaman belajar literasi dan numerasi yang ramah anak dengan logika kuis adaptif (Mode Ajari Kiko) yang otomatis menyederhanakan soal saat anak salah menjawab, sekaligus menjaga keamanan akses melalui kunci PIN Orang Tua dan pembagian hak akses berbasis peran.",
+  "image": "/images/projects/kebun-aksara.jpg",
+  "fit": "cover",
+  "demo": "",
+  "repo": "https://github.com/Taufiqurrohmanyuares/kebun-aksara.git"
+  },
+  {
     "title": "Porsi",
     "category": "Web",
     "tags": [
